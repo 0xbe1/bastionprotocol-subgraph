@@ -1,4 +1,8 @@
-# Moonwell Subgraph
+# Bastion Protocol Subgraph (archived)
+
+**The repo has moved to [messari/subgraphs](https://github.com/messari/subgraphs/tree/master/subgraphs/compound-forks/bastion-protocol).**
+
+---
 
 Moonwell is a Compound fork on Moonriver.
 
